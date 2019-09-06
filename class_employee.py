@@ -18,6 +18,7 @@ emp_2 = employee("test", "user", "60000")
 
 # print(emp_1)
 # print(emp_2)
+# print(emp_2)
 
 print(emp_1.email)
 print(emp_2.email)
